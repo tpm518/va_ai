@@ -1,1 +1,3 @@
-pip install streamlit haystack-ai python-dotenv openai
+streamlit
+haystack-ai
+openai
